@@ -31,7 +31,7 @@
      </tr>
       <tr>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical)"> </td>
-       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf8&show_icons=true&locale=en&layout=compact&theme=white" alt="MdAliAhnaf" /> </td>
+       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&show_icons=true&locale=en&layout=compact&theme=white" alt="MdAliAhnaf" /> </td>
      </tr>
    </table>
 </p>
