@@ -1,17 +1,17 @@
-# Shadril Hassan Shifat
-- 👋 Hi there, I’m Shadril Hassan Shifat.
-- I’m interested in Competitive Programming, Data Science, AI, ML, NLP.
+# Md Ali Ahnaf
+- 👋 Hi there, I’m Md Ali Ahnaf.
+- I’m a Competitive Programming and I am currently focusing on Data Science, AI, NLP, ML, Algorithms
 - Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
 
-- 📫 How to reach me- **shadrilhassan@outlook.com**
+- 📫 How to reach me- **aliahnaf2012@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shadril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadril" height="30" width="40" /></a>
-  <a href="https://discord.gg/#9685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shadril238#9685" height="30" width="40" /></a>
-  <a href="https://kaggle.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://instagram.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadril" height="30" width="40" /></a>
+  <a href="https://discord.gg/#3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="๖ۣۜζ͜͡ Ahnaf 核心#3144" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/twilight_ggwp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadril238" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadril238" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shadril238" height="30" width="40" /></a>
@@ -53,7 +53,4 @@
 
 
 </p>
-<!---
-shadril238/shadril238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
