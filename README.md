@@ -30,7 +30,7 @@
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme= tokyonight" alt="MdAliAhnaf" /> </td>
+       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=tokyonight" alt="MdAliAhnaf" /> </td>
        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&show_icons=true&locale=en&layout=compact&theme=radical" alt="MdAliAhnaf" /> </td>
      </tr>
    </table>
