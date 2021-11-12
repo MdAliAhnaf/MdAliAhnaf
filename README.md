@@ -11,13 +11,13 @@
   <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadril" height="30" width="40" /></a>
   <a href="https://discord.gg/๖ۣۜζ͜͡ Ahnaf 核心#3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="๖ۣۜζ͜͡ Ahnaf 核心#3144" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdaliahnaf" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/twilight_ggwp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.topcoder.com/members/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="shadril238" height="30" width="40" /></a>
-   <a href="https://stackoverflow.com/users/13245186/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/twilight_ggwp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twilight_ggwp" height="30" width="40" /></a>
+ <!---<a href="https://www.codechef.com/users/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadril238" height="30" width="40" /></a>--->
+  <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://leetcode.com/Md_Ali_Ahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Md_Ali_Ahnaf" height="30" width="40" /></a>
+  <!---<a href="https://www.topcoder.com/members/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="shadril238" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/13245186/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shadril238" height="30" width="40" /></a>--->
 
 </p>
 
@@ -31,12 +31,12 @@
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shadril238&show_icons=true&theme=dark"> </td>
-       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadril238&show_icons=true&locale=en&layout=compact&theme=dark" alt="shadril238" /> </td>
+       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadril238&show_icons=true&locale=en&layout=compact&theme=dark" alt="MdAliAhnaf" /> </td>
      </tr>
    </table>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shadril238)
+![Profile views](https://gpvc.arturio.dev/MdAliAhnaf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
