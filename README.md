@@ -1,23 +1,27 @@
 # Md. Ali Ahnaf
 - 👋 Hi there, I am Md. Ali Ahnaf.
-- I’m a Competitive programmer and I am currently focusing on Data Science, AI, NLP, ML, Algorithms
+- I’m interested in Competitive programming and I am currently focusing on Data Science, AI, NLP, ML, Algorithms
 - Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
 
 - 📫 How to reach me- **aliahnaf2012@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="mailto:aliahnaf2012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-aliahnaf2012@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mdaliahnaf"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mdaliahnaf-blue?style=flat&logo=linkedin"></a>
+</p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadril" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdaliahnaf" height="30" width="40" /></a>
   <a href="https://discord.gg/๖ۣۜζ͜͡ Ahnaf 核心#3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="๖ۣۜζ͜͡ Ahnaf 核心#3144" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdaliahnaf" height="30" width="40" /></a>
   <a href="https://www.instagram.com/twilight_ggwp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twilight_ggwp" height="30" width="40" /></a>
- <!---<a href="https://www.codechef.com/users/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadril238" height="30" width="40" /></a>--->
-  <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shadril238" height="30" width="40" /></a>
+ <!---<a href="https://www.codechef.com/users/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
+  <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdaliahnaf" height="30" width="40" /></a>
   <a href="https://leetcode.com/Md_Ali_Ahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Md_Ali_Ahnaf" height="30" width="40" /></a>
-  <!---<a href="https://www.topcoder.com/members/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="shadril238" height="30" width="40" /></a>
-   <a href="https://stackoverflow.com/users/13245186/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shadril238" height="30" width="40" /></a>--->
+  <!---<a href="https://www.topcoder.com/members/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mdaliahnaf" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/13245186/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
 
 </p>
 
