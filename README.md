@@ -28,6 +28,7 @@
   
 
 <p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
    <table>
       <tr>
        <th>My GitHub Stats</th>
@@ -36,7 +37,6 @@
       <tr>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=tokyonight" alt="MdAliAhnaf" /> </td>
        <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAliAhnaf&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
      </tr>
    </table>
 </p>
