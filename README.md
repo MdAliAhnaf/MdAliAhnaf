@@ -1,7 +1,8 @@
 # Md. Ali Ahnaf
-- 👋 Hi there, I am Md. Ali Ahnaf
-- I’m interested in Competitive programming and I am currently focusing on Data Science, AI, NLP, ML, Algorithms
-- Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
+- 👋 Hi there, I am Md. Ali Ahnaf.
+- I’m interested in competitive programming and I am currently focusing on Data Science, AI, NLP, ML, Algorithms.
+- Currently I am pursuing my undergrad degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
+- Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player. 
 
 - 📫 How to reach me- **aliahnaf2012@gmail.com**
 
