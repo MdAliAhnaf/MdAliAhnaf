@@ -54,13 +54,13 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
         </a>
         <br>
         <a href="https://leetcode.com/MdAliAhnaf/" target="_blank"><img alt="Youtube"
-               src="https://img.shields.io/badge/-Leetcode-FF0000?style=for-the-badge&logo=Leetcode&logoColor=white">
+               src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
         </a>
         <a href="https://www.hackerrank.com/mdaliahnaf" target="_blank"><img alt="hackerrank"
                src="https://img.shields.io/badge/-hackerrank-00cc00?style=for-the-badge&logo=hackerrank&logoColor=white">
         </a>
         <a href="https://www.kaggle.com/mdaliahnaf" target="_blank"><img alt="Kaggle"
-               src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+               src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
         </a>
         <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="_blank"><img alt="codeforces"
                src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
@@ -68,6 +68,9 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
         <br>
         <a href="https://www.coursera.org/user/c0efcf358f8cb26242c5de2e29ddcd8f" target="_blank"><img alt="Coursera"
                src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+        </a>
+        <a href="https://learn.udacity.com/courses/ud513" target="_blank"><img alt="Udacity"
+               src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">
         </a>
         <a href="hhttps://stackoverflow.com/users/18825803/ahnaf" target="_blank"><img alt="Stack_Overflow"
                src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
@@ -101,40 +104,61 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 [![image](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/) 
 [![image](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) 
 [![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+
 <br>
+
+[![image](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)]() 
+[![image](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)]() 
+[![image](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)]() 
+[![image](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
+[![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() 
+[![image](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]() 
+[![image](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]() 
+[![image](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)]() 
+[![image](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)]() 
+[![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)]() 
+[![image](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)]() 
+[![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)]() 
+[![image]()](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white  
+[![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
+[![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]() 
+[![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]() 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+[![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
 
+<br>
 
+[![image](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]() 
+[![image](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]() 
+[![image](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]() 
+[![image](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]() 
+[![image](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]() 
+[![image](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)]() 
 
+<br>
 
+[![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
+[![image](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]() 
+[![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() 
+[![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]() 
 
-     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  
- <!---  
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>--->
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-</p>
-
-# <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livealvi&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-# <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
-
-[![Alvi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=livealvi&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
+<br><br>
 
 # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
-
-![Alvi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=livealvi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
 <p align="center">
    <table>
       <tr>
-       <th>My GitHub Stats</th>
-       <th>Language Contribution</th>
+       <th>&nbsp;StatsMy GitHub Stats</th>
+       <th>&nbsp;Language Contribution</th>
      </tr>
       <tr>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=tokyonight" alt="MdAliAhnaf" /> </td>
@@ -143,3 +167,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
    </table>
 </p>
 
+# <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
+
+[![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
