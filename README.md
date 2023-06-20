@@ -22,10 +22,20 @@
         </div>
     </foreignObject>
 </svg>
+<head>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"> 
+<style scoped>
+        @import "css/bootstrap-5.0.1-iso.css";
+    </style>   
 <link rel="stylesheet" href="css/homepage1.css"> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
-<li><a class="navbar-brand animate-charcter_header">Razer Store Bangladesh</a>
-    </li>
+</head>
+<body>
+<div class="bootstrap-iso">
+<a class="animate-charcter"> Razer </a>
+</div>
+</body>
+
 # &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
