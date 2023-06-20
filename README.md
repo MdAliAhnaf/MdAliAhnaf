@@ -6,7 +6,7 @@
 - I’m interested in competitive programming and I am currently focusing on Data Science, Ai,  ML, DL, Computer-Vision and Algorithms.
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player.  <br>
-Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
+- Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
 
 Feel free to connect with me. I'm also **available** at: <br>
@@ -14,8 +14,10 @@ Feel free to connect with me. I'm also **available** at: <br>
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
+        <br>
         [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliahnaf/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahnaf2012@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/twilightggwp)&nbsp;&nbsp; 
 <!-- [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://mdaliahnaf.com/) -->
+        <br>
         <br>
         <!-- Activity Widget -->
         <img alt="Shahriar Shafin's GitHub Stats"
