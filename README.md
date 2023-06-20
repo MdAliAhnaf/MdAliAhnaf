@@ -44,7 +44,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
     <p align="center">
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+        <p>&#9776;</p>
         <!-- Mail -->
         <a href="mailto:aliahnaf2012@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
