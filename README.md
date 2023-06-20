@@ -168,7 +168,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold of Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
@@ -178,7 +178,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold of Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
