@@ -1,15 +1,14 @@
 <!-- Md. Ali Ahnaf -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
-<head>
-<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
+<!--<head>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
 <link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
 <link rel="stylesheet" href="assets/css/homepage1.css"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
 </head>
-<body>
-<div class="bootstrap-iso">
-    
+<body>-->
 
+<div class="bootstrap-iso">   
   <div class="container1">
   <div class="row1">
     <div class="col-md-12 text-center">
