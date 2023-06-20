@@ -35,7 +35,7 @@ Feel free to connect with me. I'm also **available** at: <br>
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
         <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
@@ -45,8 +45,7 @@ Feel free to connect with me. I'm also **available** at: <br>
 </details>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliahnaf/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahnaf2012@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/twilightggwp)&nbsp;&nbsp; 
-<!-- [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://mdaliahnaf.com/) -->
+
 
 <br>
 <br>
