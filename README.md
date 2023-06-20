@@ -3,97 +3,26 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style> 
-.animate-charcter
-{
-   text-transform: uppercase;
-  background-image: linear-gradient(
-    -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-      font-size: 130px;
-}
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
 
-@keyframes textclip {
-  to {
-    background-position: 200% center;
-  }
-}
-
-.animate-charcter_header
-{
-   text-transform: default;
-  background-image: linear-gradient(
-    -225deg,
-    #44107a 0%,
-    #007bff 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip_header 2s linear infinite;
-  display: inline-block;
-      font-size: 20px;
-}
-
-@keyframes textclip_header {
-  from {
-    background-position: 200% ;
-  }
-}
-
-.animate-charcter_header_signup
-{
-   text-transform: default;
-  background-image: linear-gradient(
-    -225deg,
-    #44107a 0%,
-    #007bff 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip_header_signup 2s linear infinite;
-  display: inline-block;
-      font-size: 40px;
-}
-
-@keyframes textclip_header_signup{
-  from {
-    background-position: 200% ;
-  }
-} </style>
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
             <h1>HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
+<link rel="stylesheet" href="css/homepage1.css"> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
 <li><a class="navbar-brand animate-charcter_header">Razer Store Bangladesh</a>
     </li>
