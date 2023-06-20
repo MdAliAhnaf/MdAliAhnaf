@@ -187,7 +187,7 @@
 <br><br>
 
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
-&nbsp; Stats and Language Contribution
+&nbsp; Others..
 <p align="center">
    <table>
       <tr>
@@ -203,7 +203,7 @@
 </p>
 
 <!-- # <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak -->
-&nbsp;Streak
+<!-- &nbsp;Streak -->
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
