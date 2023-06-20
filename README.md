@@ -17,7 +17,7 @@
     <div class="col-md-12 text-center">
       <a class="animate-charcter"> 
           <div class="col-md-12 text-center">
-<img src="assets/img/lol.gif" alt="Razer Team Logo" align="right" > <!--width="300" height="300"-->
+<img src="assets/img/Ai-Animation.gif" alt="Ai-Animation" align="right" > <!--width="300" height="300"-->
 </div>
        </a>
     </div>
@@ -42,10 +42,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <details align="center">
     <summary> <samp>&#9776; Feel free to find me on</samp></summary>
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Ahnaf's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
@@ -72,6 +68,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 <br>
 <br>
+
 
 # <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
 
