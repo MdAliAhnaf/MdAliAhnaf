@@ -1,7 +1,7 @@
 #Md. Ali Ahnaf
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MdAliAhnaf)
 
-# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm Md. Ali Ahnaf &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - I’m interested in competitive programming and I am currently focusing on Data Science, Ai,  ML, DL, Computer-Vision and Algorithms.
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
