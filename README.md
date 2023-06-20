@@ -8,7 +8,7 @@
 </head>
 <body>-->
 
-# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=30&center=true&vCenter=true&width=120&height=30&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a> 
+# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=25&center=true&vCenter=true&width=140&height=25&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a> 
 &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
   
