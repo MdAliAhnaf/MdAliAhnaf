@@ -56,5 +56,33 @@
   }
 }
 
+.animate-charcter_header_signup
+{
+   text-transform: default;
+  background-image: linear-gradient(
+    -225deg,
+    #44107a 0%,
+    #007bff 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip_header_signup 2s linear infinite;
+  display: inline-block;
+      font-size: 40px;
+}
+
+@keyframes textclip_header_signup{
+  from {
+    background-position: 200% ;
+  }
+}
 
 
