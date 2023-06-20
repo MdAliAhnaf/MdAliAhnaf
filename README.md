@@ -2,8 +2,8 @@
 <!-- June 21, 2023 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 
-# &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=22&center=true&vCenter=true&width=138&height=26&lines=Ahnaf+:D)](https://github.com/MdAliAhnaf)</a> 
+<!-- # &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=22&center=true&vCenter=true&width=138&height=26&lines=Ahnaf+:D)](https://github.com/MdAliAhnaf)</a>  -->
 
   <!-- <div class="row1">
     <div class="col-md-12 text-center">
@@ -206,9 +206,9 @@
 <!-- # <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak -->
 <!-- &nbsp;Streak -->
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
-</p>
+</p> -->
 
 <!-- <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
