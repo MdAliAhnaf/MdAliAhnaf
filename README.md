@@ -8,8 +8,8 @@
 </head>
 <body>-->
 
-# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=28&center=left&vCenter=left&width=148&height=32&lines=Ahnaf+:3)](https://github.com/MdAliAhnaf)</a> 
-&nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=28&center=true&vCenter=true&width=148&height=32&lines=Ahnaf+:3)](https://github.com/MdAliAhnaf)</a> 
+<!-- &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
 
   
   
@@ -29,12 +29,13 @@
 
 
 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
-- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
-- Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player.  <br>
+- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
+ 
 - I am inevitably on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
-And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
-
+- Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player.
+And I love<img src="assets/img/valorant-chile-logo.gif" width="35" height="35"> <img src="assets/img/valorant-csgo.gif" width="35" height="35"> <img src="assets/img/dota_2.jpg" width="35" height="35">**eSports!** & **Badminton**<br>
+&nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; Feel free to find me on</samp></summary>
