@@ -121,6 +121,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <details>
 <summary> &#9776; Tools & OS</summary>
 <br><br>
+
+
 [![image](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)]() 
 [![image](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]() 
@@ -169,6 +171,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Predict patients diseases via classifiers in R&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
