@@ -8,9 +8,22 @@
 </head>
 <body>
 <div class="bootstrap-iso">
-<a class="animate-charcter"> Razer </a>
+    
+
+  <div class="container1">
+  <div class="row1">
+    <div class="col-md-12 text-center">
+      <a class="animate-charcter"> Razer 
+          <div class="col-md-12 text-center"> ST
+<img src="assets/css/razer_gif.gif" alt="Razer Team Logo" align="center" width="300" height="300">
+RE
 </div>
-</body>
+       Bangladesh</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
 
 # &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
