@@ -87,8 +87,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <h3 align="left">⚙️Languages & Tools🔧:</h3>
 <p align="left"> 
 
-<a href="https://www.python.org/" target="_blank"> <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> </a>
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" href="https://www.python.org/"/>
  <![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})(https://github.com/MdAliAhnaf)
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
