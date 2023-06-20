@@ -19,8 +19,8 @@
 #### Featured Project Showcase
 
 <p align="center">
-<a href="https://github.com/MdAliAhnaf/MdAliAhnaf">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=MdAliAhnaf&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
