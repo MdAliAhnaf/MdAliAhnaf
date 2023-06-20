@@ -85,7 +85,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 ## ⚙️Languages & Tools🔧:
 
-[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/learn/csharp/)
+[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
+[![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/learn/csharp/)
 <h3 align="left">⚙️Languages & Tools🔧:</h3>
 
 <p align="left"> 
