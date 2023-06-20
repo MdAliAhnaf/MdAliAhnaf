@@ -14,7 +14,7 @@
     <div class="col-md-12 text-center">
       <a class="animate-charcter"> 
           <div class="col-md-12 text-center">
-<img src="assets/img/lol2.gif" alt="Razer Team Logo" align="right" > <!--width="300" height="300"-->
+<img src="assets/img/lol.gif" alt="Razer Team Logo" align="right" > <!--width="300" height="300"-->
 </div>
        </a>
     </div>
