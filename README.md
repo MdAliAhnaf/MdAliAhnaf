@@ -1,5 +1,5 @@
 <!-- Md. Ali Ahnaf -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=1350&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 <!--<head>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
 <link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
@@ -8,10 +8,10 @@
 </head>
 <body>-->
 
-# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=30&center=true&vCenter=true&width=210&height=30&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=30&center=true&vCenter=true&width=180&height=30&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
   
-  <div class="container1">
+  
   <div class="row1">
     <div class="col-md-12 text-center">
       <a class="animate-charcter"> 
@@ -22,7 +22,7 @@
     </div>
   </div>
 </div>
-</div>
+
 
 
 
