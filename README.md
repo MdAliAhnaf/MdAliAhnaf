@@ -9,9 +9,7 @@
 <body>-->
 
 # &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=28&center=true&vCenter=true&width=148&height=32&lines=Ahnaf+:3)](https://github.com/MdAliAhnaf)</a> 
-<!-- &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=25&center=true&vCenter=true&width=148&height=29&lines=Ahnaf+:))](https://github.com/MdAliAhnaf)</a> 
 
   <div class="row1">
     <div class="col-md-12 text-center">
@@ -23,7 +21,6 @@
     </div>
   </div>
 </div>
-
 
 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
@@ -61,12 +58,12 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
         <!---  src="https://img.shields.io/badge/Youtube-%EC3750.svg?style=for-the-badge&logo=Youtube&logoColor=white">--->  
     </p>
 </details>
-
+<br>
 <samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻"
+        "Godspeed on your coding!👨‍💻"
     </p>
 </samp>
 
