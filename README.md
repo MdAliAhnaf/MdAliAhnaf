@@ -9,7 +9,7 @@
 <body>-->
 
 # &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=25&center=true&vCenter=true&width=148&height=29&lines=Ahnaf+:))](https://github.com/MdAliAhnaf)</a> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=22&center=true&vCenter=true&width=138&height=26&lines=Ahnaf+:D)](https://github.com/MdAliAhnaf)</a> 
 
   <div class="row1">
     <div class="col-md-12 text-center">
@@ -38,7 +38,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
     <p align="center">
         <br>
         <!-- Social Links -->
-        <p>&#9776;</p>
+        <p>&#9776; Do Better, Be Better & Stay Better!</p>
         <!-- Mail -->
         <a href="mailto:aliahnaf2012@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
