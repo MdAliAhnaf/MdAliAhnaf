@@ -49,11 +49,28 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
                src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">
         </a>
         <!---  src="https://img.shields.io/badge/Youtube-%EC3750.svg?style=for-the-badge&logo=Youtube&logoColor=white">--->  
-        <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
+        <a href="https://discordapp.com/users/376360755865583616" target="_blank"><img alt="Discord"
+               src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+        </a>
+        <br>
+        <a href="https://leetcode.com/MdAliAhnaf/" target="_blank"><img alt="Youtube"
                src="https://img.shields.io/badge/-Leetcode-FF0000?style=for-the-badge&logo=Leetcode&logoColor=white">
         </a>
-        <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
-               src="https://img.shields.io/badge/-hackerrank-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white">
+        <a href="https://www.hackerrank.com/mdaliahnaf" target="_blank"><img alt="hackerrank"
+               src="https://img.shields.io/badge/-hackerrank-00cc00?style=for-the-badge&logo=hackerrank&logoColor=white">
+        </a>
+        <a href="https://www.kaggle.com/mdaliahnaf" target="_blank"><img alt="Kaggle"
+               src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+        </a>
+        <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="_blank"><img alt="codeforces"
+               src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+        </a>
+        <br>
+        <a href="https://www.coursera.org/user/c0efcf358f8cb26242c5de2e29ddcd8f" target="_blank"><img alt="Coursera"
+               src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+        </a>
+        <a href="hhttps://stackoverflow.com/users/18825803/ahnaf" target="_blank"><img alt="Stack_Overflow"
+               src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         </a>
     </p>
 </details>
@@ -90,7 +107,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
  <!---<a href="https://www.codechef.com/users/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
   <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdaliahnaf" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Md_Ali_Ahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Md_Ali_Ahnaf" height="30" width="40" /></a>
+  <a href="https://leetcode.com/MdAliAhnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Md_Ali_Ahnaf" height="30" width="40" /></a>
   <!---<a href="https://www.topcoder.com/members/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mdaliahnaf" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/13245186/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
 
