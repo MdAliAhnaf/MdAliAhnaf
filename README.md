@@ -207,8 +207,9 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727'>Nominate me to Github Stars ⭐</a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="350"></a>
 </p>
+
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
