@@ -171,10 +171,10 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
-
+     https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
@@ -203,4 +203,5 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 # <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
 
-[![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" />
+<!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
