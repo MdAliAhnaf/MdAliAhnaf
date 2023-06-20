@@ -1,10 +1,10 @@
 <!-- Md. Ali Ahnaf -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile^-^)](https://github.com/MdAliAhnaf)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 <head>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
+<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
 <link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
 <link rel="stylesheet" href="assets/css/homepage1.css"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> -->
 </head>
 <body>
 <div class="bootstrap-iso">
@@ -58,13 +58,12 @@ And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!**
         </a>  
         <!-- Youtube -->
         <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+               src="https://img.shields.io/badge/Youtube-%231DA1F2.svg?style=for-the-badge&logo=Youtube&logoColor=white">
         </a>
+        <!--- src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" --->  
     </p>
 </details>
 <br>
-
-
 
 <br>
 <br>
