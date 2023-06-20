@@ -4,7 +4,7 @@
 # <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm Md. Ali Ahnaf &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - I’m interested in competitive programming and I am currently focusing on Data Science, Ai,  ML, DL, Computer-Vision and Algorithms.
-- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing
+- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player.  <br>
 Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
@@ -27,11 +27,6 @@ Feel free to connect with me. I'm also **available** at: <br>
 # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
 
 ![Alvi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=livealvi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-- 👋 Hi there, I am Md. Ali Ahnaf.
-- I’m interested in competitive programming and I am currently focusing on Data Science, Ai,  ML, DL, Computer-Vision and Algorithms.
-- Currently I am pursuing my undergrad degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
-- Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player. 
 
 - 📫 How to reach me- **aliahnaf2012@gmail.com**
 
