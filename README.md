@@ -194,8 +194,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
        <th>&nbsp;Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=tokyonight" alt="MdAliAhnaf" /> </td>
-       <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>
+       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=blood&fire" alt="MdAliAhnaf" /> </td>
+       <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=blood&fire" alt="MdAliAhnaf"> </td>
      </tr>
      
    </table>
@@ -207,7 +207,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="350"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="500"></a>
 </p>
 
 
