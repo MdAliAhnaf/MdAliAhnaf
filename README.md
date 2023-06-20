@@ -10,9 +10,40 @@ Currently, I continue my bachelor's degree in computer science engineering from 
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
 
 Feel free to connect with me. I'm also **available** at: <br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliahnaf/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahnaf2012@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/twilightggwp)&nbsp;&nbsp; 
+<!-- Details Section -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliahnaf/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahnaf2012@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/twilightggwp)&nbsp;&nbsp; 
 <!-- [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://mdaliahnaf.com/) -->
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Shahriar Shafin's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
+
+
 
 <br>
 <br>
