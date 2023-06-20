@@ -14,7 +14,7 @@
     <div class="col-md-12 text-center">
       <a class="animate-charcter"> 
           <div class="col-md-12 text-center">
-<img src="assets/img/lol.gif" alt="Razer Team Logo" align="right" > <!--width="300" height="300"-->
+<img src="assets/img/lol2.gif" alt="Razer Team Logo" align="right" > <!--width="300" height="300"-->
 </div>
        </a>
     </div>
@@ -23,7 +23,7 @@
 </div>
 </div>
 
-# &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
