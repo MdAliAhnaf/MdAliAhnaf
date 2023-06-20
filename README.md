@@ -1,14 +1,7 @@
 <!-- Md. Ali Ahnaf -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
-<!--<head>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
-<link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
-<link rel="stylesheet" href="assets/css/homepage1.css"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
-</head>
-<body>-->
 
-# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
+# &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=22&center=true&vCenter=true&width=138&height=26&lines=Ahnaf+:D)](https://github.com/MdAliAhnaf)</a> 
 
   <div class="row1">
@@ -56,6 +49,12 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
                src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">
         </a>
         <!---  src="https://img.shields.io/badge/Youtube-%EC3750.svg?style=for-the-badge&logo=Youtube&logoColor=white">--->  
+        <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
+               src="https://img.shields.io/badge/-Leetcode-FF0000?style=for-the-badge&logo=Leetcode&logoColor=white">
+        </a>
+        <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
+               src="https://img.shields.io/badge/-hackerrank-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white">
+        </a>
     </p>
 </details>
 <br>
@@ -83,11 +82,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 - 📫 How to reach me- **aliahnaf2012@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="mailto:aliahnaf2012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-aliahnaf2012@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/mdaliahnaf"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mdaliahnaf-blue?style=flat&logo=linkedin"></a>
-</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdaliahnaf" height="30" width="40" /></a>
   <a href="https://discord.gg/๖ۣۜζ͜͡ Ahnaf 核心#3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="๖ۣۜζ͜͡ Ahnaf 核心#3144" height="30" width="40" /></a>
@@ -116,8 +110,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
      </tr>
    </table>
 </p>
-
-![Profile views](https://gpvc.arturio.dev/MdAliAhnaf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
