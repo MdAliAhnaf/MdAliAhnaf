@@ -1,5 +1,5 @@
 <!-- Md. Ali Ahnaf -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MdAliAhnaf)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile ^-^)](https://github.com/MdAliAhnaf)
 <head>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
 <link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
@@ -33,10 +33,9 @@
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
 
-<b> Feel free to **connect** with me. </b> I'm also **available** at: <br>
 <!-- Details Section -->
 <details align="center">
-    <summary> <samp>&#9776; Feel free to find me on</samp></summary>
+    <summary> <samp>&#9776; Feel free to **find** me on</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
