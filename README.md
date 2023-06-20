@@ -83,6 +83,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
     </p>
 </samp>
 
+##⚙️Languages & Tools🔧:
+
 [![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 <h3 align="left">⚙️Languages & Tools🔧:</h3>
 
