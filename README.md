@@ -194,8 +194,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
        <th>&nbsp;Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=dracula" alt="MdAliAhnaf" /> </td>
-       <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>
+       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=highcontrast" alt="MdAliAhnaf" /> </td>
+       <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=synthwave" alt="MdAliAhnaf"> </td>
      </tr>
      
    </table>
