@@ -1,5 +1,5 @@
 <!-- Md. Ali Ahnaf -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile ^-^)](https://github.com/MdAliAhnaf)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 <head>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">  
 <link rel="stylesheet" href="assets/css/bootstrap-5.0.1-iso.css"> 
@@ -15,7 +15,7 @@
     <div class="col-md-12 text-center">
       <a class="animate-charcter"> 
           <div class="col-md-12 text-center">
-<img src="assets/css/razer_gif.gif" alt="Razer Team Logo" align="right" width="300" height="300">
+<img src="assets/css/circle_animation.gif" alt="Razer Team Logo" align="right" width="300" height="300">
 </div>
        </a>
     </div>
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-# &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# <img src="assets/img/wave.gif"  width="27" height="27"> # &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.
@@ -35,7 +35,7 @@ And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!**
 
 <!-- Details Section -->
 <details align="center">
-    <summary> <samp>&#9776; Feel free to **find** me on</samp></summary>
+    <summary> <samp>&#9776; Feel free to find me on</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
