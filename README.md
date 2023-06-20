@@ -1,6 +1,6 @@
 <!-- https://github.com/MdAliAHnaf/  (Md. Ali Ahnaf) -->
 <!-- June 21, 2023 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf) -->
 
 <!-- # &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=22&center=true&vCenter=true&width=138&height=26&lines=Ahnaf+:D)](https://github.com/MdAliAhnaf)</a>  -->
@@ -28,12 +28,12 @@
 &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 <!-- Details Section -->
-<details align="center">
+<div align="center">
     <summary> &#9776; Feel free to find me on</summary>
     <p align="center">
         <br>
+        <!-- <p>&#9776; <samp>Do Better, Be Better & Stay Better! </samp></p> -->
         <!-- Social Links -->
-        <p>&#9776; <samp>Do Better, Be Better & Stay Better! </samp></p>
         <!-- Mail -->
         <a href="mailto:aliahnaf2012@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -78,15 +78,15 @@
                src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         </a>
     </p>
-</details>
+</div>
 <br>
-<samp>
+<!-- <samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
         "Godspeed on your coding!👨‍💻"
     </p>
-</samp>
+</samp> -->
 
 <!-- <h3 align="left">⚙️Languages & Tools🔧:</h3> -->
 
@@ -188,7 +188,7 @@
 <br><br>
 
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
-&nbsp; **Others..**
+<!-- &nbsp; **Others..** -->
 <p align="center">
    <table>
       <tr>
