@@ -8,9 +8,9 @@
 </head>
 <body>-->
 
-# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=10&center=true&vCenter=true&width=1000&height=150&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a><&nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# &nbsp;👋 Hi there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=30&center=true&vCenter=true&width=1000&height=150&lines=Ahnaf+^-^)](https://github.com/MdAliAhnaf)</a> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
-<div class="bootstrap-iso">   
+  
   <div class="container1">
   <div class="row1">
     <div class="col-md-12 text-center">
@@ -23,7 +23,7 @@
   </div>
 </div>
 </div>
-</div>
+
 
 
 
