@@ -91,6 +91,11 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <!-- <h3 align="left">⚙️Languages & Tools🔧:</h3> -->
 
 ## ⚙️Languages & Tools🔧:
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
+</p>
+
 [![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/learn/csharp/)
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) 
@@ -160,6 +165,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 </details>
 
+<br>
 #### Featured Project Showcase
 
 <p align="center">
@@ -186,7 +192,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 <br><br>
 
-# <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Others..
+<!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
+&nbsp; Stats and Language Contribution
 <p align="center">
    <table>
       <tr>
@@ -201,8 +208,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
    </table>
 </p>
 
-# <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
-
+<!-- # <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak -->
+&nbsp;Streak
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
