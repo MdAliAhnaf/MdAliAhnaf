@@ -59,7 +59,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
         </a>  
         <!-- Youtube -->
         <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
-               src="https://img.shields.io/badge/Youtube-%231DA1F2.svg?style=for-the-badge&logo=Youtube&logoColor=white">
+               src="https://img.shields.io/badge/Youtube-%FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white">
         </a>
         <!--- src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" --->  
     </p>
