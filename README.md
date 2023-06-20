@@ -13,10 +13,9 @@
   <div class="container1">
   <div class="row1">
     <div class="col-md-12 text-center">
-      <a class="animate-charcter"> Razer 
-          <div class="col-md-12 text-center"> ST
+      <a class="animate-charcter"> 
+          <div class="col-md-12 text-center">
 <img src="assets/css/razer_gif.gif" alt="Razer Team Logo" align="center" width="300" height="300">
-RE
 </div>
        Bangladesh</a>
     </div>
