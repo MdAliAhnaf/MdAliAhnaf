@@ -135,12 +135,13 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 [![image](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)]() 
 [![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)]() 
 [![image](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)]() 
-https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white  
+  
 [![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
+[![image](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]() 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="25"/> </a> 
 [![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
 
 <br>
@@ -165,12 +166,12 @@ https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML/tree/main/Predict%20patients%20diseases%20via%20classifiers%20in%20R(Final%20Project)">
+<a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Predict patients diseases via classifiers in R&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/MdAliAhnaf/Threshold of Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold of Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
