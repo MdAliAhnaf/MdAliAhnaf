@@ -1,11 +1,12 @@
 #Md. Ali Ahnaf
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MdAliAhnaf)
 
-# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hey there, I'm Md. Ali Ahnaf &nbsp; ![](hhttps://gpvc.arturio.dev/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm Md. Ali Ahnaf &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 - 👋 Hi there, I am Md. Ali Ahnaf.
 - I’m interested in competitive programming and I am currently focusing on Data Science, Ai,  ML, DL, Computer-Vision and Algorithms.
-- Currently I am pursuing my undergrad degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
+- I am a senior-year undergraduate student in with a passion for problem-solving and computing
+- Currently I am pursuing my undergrad degree in Computer Science & Engineering from  [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and currently, I play Valorant professionally as an eSports player.  <br>
 Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
 And I love<img src="assets/img/sandwich.gif" width="30" height="30">**cooking!** <br>
