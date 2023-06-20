@@ -122,7 +122,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <summary> &#9776; Tools & OS</summary>
 <br><br>
 
-
 [![image](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)]() 
 [![image](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]() 
@@ -182,8 +181,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 </a>
 </p>
 
-
-
 <br><br>
 
 # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Others..
@@ -207,7 +204,6 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
 </p>
-
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
