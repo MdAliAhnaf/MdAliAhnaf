@@ -1,7 +1,7 @@
 #Md. Ali Ahnaf
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MdAliAhnaf)
 
-# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm Md. Ali Ahnaf &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
+# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;👋 Hi there, I'm Md. Ali Ahnaf &nbsp; ![](hhttps://gpvc.arturio.dev/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
 A full stack developer from Bangladesh. Strong exprinece in RESTful API Development, MERN, PERN, NodeJs, ExpressJs, NestJs, ReactJs, .NET Core, ASP.NET Framework, SQL(PostgreSQL, MSSQL, MySQL, MariaDB), NoSQL(MongoDB) AWS, Docker. <br>
 Currently, I continue my bachelor's degree in computer science engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). Every day I'm learning, facing new **challenges**, and giving my best **effort** for the best **output**. Love to explore new technologies and I am a passionate learner.<br>
@@ -39,7 +39,19 @@ Feel free to connect with me. I'm also **available** at: <br>
 <a href="mailto:aliahnaf2012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-aliahnaf2012@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/mdaliahnaf"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mdaliahnaf-blue?style=flat&logo=linkedin"></a>
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdaliahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdaliahnaf" height="30" width="40" /></a>
+  <a href="https://discord.gg/๖ۣۜζ͜͡ Ahnaf 核心#3144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="๖ۣۜζ͜͡ Ahnaf 核心#3144" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdaliahnaf" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/twilight_ggwp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twilight_ggwp" height="30" width="40" /></a>
+ <!---<a href="https://www.codechef.com/users/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
+  <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mdaliahnaf" height="30" width="40" /></a>
+  <a href="https://leetcode.com/Md_Ali_Ahnaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Md_Ali_Ahnaf" height="30" width="40" /></a>
+  <!---<a href="https://www.topcoder.com/members/mdaliahnaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mdaliahnaf" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/13245186/mdaliahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mdaliahnaf" height="30" width="40" /></a>--->
 
+</p>
 
   
 
