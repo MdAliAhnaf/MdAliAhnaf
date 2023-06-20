@@ -1,4 +1,6 @@
-<!-- Md. Ali Ahnaf -->
+<!-- https://github.com/MdAliAHnaf/  (Md. Ali Ahnaf) -->
+<!-- June 21, 2023 -->
+<!-- DO LEAVE A STAR, IF YOU LIKED IT ! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 
 # &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
@@ -118,7 +120,7 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 
 <details>
 <summary> &#9776; Tools & OS</summary>
-
+<br><br>
 [![image](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)]() 
 [![image](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]() 
@@ -155,6 +157,8 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
 [![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]() 
 
 </details>
+
+#### Featured Project Showcase
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/MdAliAhnaf">
