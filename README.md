@@ -186,7 +186,7 @@
 <br><br>
 
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
-&nbsp; Others..
+&nbsp; **Others..**
 <p align="center">
    <table>
       <tr>
