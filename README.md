@@ -161,6 +161,8 @@
 </details>
 
 <br>
+
+
 #### Featured Project Showcase
 
 <p align="center">
