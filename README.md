@@ -12,21 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00ffff&size=28&center=true&vCenter=true&width=148&height=32&lines=Ahnaf+:3)](https://github.com/MdAliAhnaf)</a> 
 <!-- &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
 
-  
-  
-
-
-
-
-
-
-- I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
-- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
- 
-- I am inevitably on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
-- I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
-- Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30">  <br>
-And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35">
 
   <div class="row1">
     <div class="col-md-12 text-center">
@@ -38,6 +23,15 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
     </div>
   </div>
 </div>
+
+
+- I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
+- I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
+ 
+- I am inevitably on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
+- I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
+- Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30">  <br>
+And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35">
 
 &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
@@ -67,10 +61,14 @@ And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cu
         <!---  src="https://img.shields.io/badge/Youtube-%EC3750.svg?style=for-the-badge&logo=Youtube&logoColor=white">--->  
     </p>
 </details>
-<br>
 
-<br>
-<br>
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
 
 
 # <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
