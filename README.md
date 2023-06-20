@@ -1,6 +1,9 @@
 <!-- Md. Ali Ahnaf -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MdAliAhnaf)
-<head>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style> 
 .animate-charcter
 {
    text-transform: uppercase;
@@ -86,9 +89,12 @@
   from {
     background-position: 200% ;
   }
-}
+} </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"> 
-</head>
 <li><a class="navbar-brand animate-charcter_header">Razer Store Bangladesh</a>
     </li>
 # &nbsp;👋 Hi there, I'm <b><a target="_blank" href="https://mdaliahnaf.github.io/">Md. Ali Ahnaf</a></b> &nbsp; ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
