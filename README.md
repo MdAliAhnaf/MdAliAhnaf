@@ -1,6 +1,5 @@
 <!-- https://github.com/MdAliAHnaf/  (Md. Ali Ahnaf) -->
 <!-- June 21, 2023 -->
-<!-- DO LEAVE A STAR, IF YOU LIKED IT ! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+Git+Profile+^-^)](https://github.com/MdAliAhnaf)
 
 # &nbsp;👋 Hey there, I'm <a target="_blank" href="https://mdaliahnaf.github.io/"> 
@@ -209,6 +208,6 @@
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727" width="400"></a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
+</p> -->
