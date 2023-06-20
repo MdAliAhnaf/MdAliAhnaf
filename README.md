@@ -14,16 +14,7 @@
 
   
   
-  <div class="row1">
-    <div class="col-md-12 text-center">
-      <a class="animate-charcter"> 
-          <div class="col-md-12 text-center">
-<img src="assets/img/Ai-Animation.gif" alt="Ai-Animation" align="right" > <!--width="300" height="300"-->
-</div>
-       </a>
-    </div>
-  </div>
-</div>
+
 
 
 
@@ -36,6 +27,17 @@
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30">  <br>
 And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35">
+
+  <div class="row1">
+    <div class="col-md-12 text-center">
+      <a class="animate-charcter"> 
+          <div class="col-md-12 text-center">
+<img src="assets/img/Ai-Animation.gif" alt="Ai-Animation" align="right" > <!--width="300" height="300"-->
+</div>
+       </a>
+    </div>
+  </div>
+</div>
 
 &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet)
 
