@@ -19,9 +19,9 @@
         <!-- Intro -->
        <samp> 
        」
-              「I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b>
-              I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.
-              I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.
+              「I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b><br>
+              I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.<br>
+              I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.<br>
               I am concentrating on conducting <b>research</b> and developing cutting-edge initiatives on various <b>CNN sequential model</b> architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly <b>improving my algorithms, problem-solving skills, data structures, and Oracle-SQL database</b>」.
        <!-- <ul>
               <li>I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b></li>
@@ -330,7 +330,7 @@
         </a>      
     </p>
 </div>
-<br>
+
 
 <!-- [![image](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)]() 
@@ -364,7 +364,6 @@
 [![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]() 
 [![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]()  -->
-
 </details>
 
 <br>
