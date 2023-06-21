@@ -18,6 +18,11 @@
 <p align="center">
         <!-- Intro -->
        <samp> 
+       <ul>
+<li>Example 1</li>
+<li>Example 2</li>
+<li>Example 3</li>
+</ul>
       「 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**」
    I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
  
