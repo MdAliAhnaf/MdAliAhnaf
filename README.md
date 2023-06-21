@@ -18,13 +18,17 @@
 <p align="center">
         <!-- Intro -->
        <samp> 
-       「Git Profile」
-       <ul>
+       」
+              「I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b>
+              I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.
+              I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.
+              I am concentrating on conducting <b>research</b> and developing cutting-edge initiatives on various <b>CNN sequential model</b> architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly <b>improving my algorithms, problem-solving skills, data structures, and Oracle-SQL database</b>」.
+       <!-- <ul>
               <li>I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b></li>
               <li>I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.</li>
               <li>I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.</li>
               <li>I am concentrating on conducting <b>research</b> and developing cutting-edge initiatives on various <b>CNN sequential model</b> architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly <b>improving my algorithms, problem-solving skills, data structures, and Oracle-SQL database</b>.</li>
-       </ul> 
+       </ul>  -->
        </samp>
         
 </p>
@@ -132,6 +136,18 @@
 <!-- <h3 align="left">⚙️Languages & Tools🔧:</h3> -->
 
 ## ⚙️Languages & Tools🔧:
+<div align="center">
+    <p align="center">
+        <br>
+        <a href="https://www.python.org/" target="_blank"><img alt="Python"
+                src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        </a>
+        <a href="https://dotnet.microsoft.com/learn/csharp/" target="_blank"><img alt="Python"
+                src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+        </a>
+    </p>
+</div>
+<br>
 
 [![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/learn/csharp/)
@@ -187,14 +203,12 @@
 [![image](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]() 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="25"/> </a> 
-[![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
-
 <br>
 
 [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() 
-[![image](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]() 
+<!-- [![image](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]()  -->
 [![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]() 
 [![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]() 
