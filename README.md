@@ -237,8 +237,8 @@
 [![image](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()  -->
 
 <br>
-<details>
-<summary> &#9776; Tools & OS</summary>
+<!-- <details> -->
+<summary> &#9735; &#9776; Tools & OS</summary>
 <div align="center">
     <p align="center">
        <br>
@@ -363,7 +363,7 @@
 [![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]() 
 [![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]()  -->
-</details>
+<!-- </details> -->
 
 <br>
 <p align="center">&#9776; Profile Views &#9776;</p>
