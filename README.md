@@ -37,7 +37,7 @@
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
 
 ### Featured Project Showcase
-<br></br>
+</br>
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
@@ -58,6 +58,7 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+</br>
 <!-- And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35"> -->
 
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
