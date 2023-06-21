@@ -203,7 +203,7 @@
 </details>
 
 <br>
-<p align="center">Visitor's count :eyes:</p>
+<p align="center">&#9776;Profile Views&#9776;</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=5 alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
