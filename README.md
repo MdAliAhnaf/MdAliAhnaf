@@ -71,6 +71,7 @@
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
               <br>
        </details> -->
+<summary></summary>
   &#9776; Feel free to find me on 
     <p align="center">
         <br>
@@ -202,8 +203,8 @@
 </details>
 
 <br>
-<h1 align="center">Visitor's count :eyes:</h1>
-<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=25 alt="MdAliAhnaf :: Visitor's Count" /></p>
+<p align="center">Visitor's count :eyes:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=10 alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 <p align="center">
