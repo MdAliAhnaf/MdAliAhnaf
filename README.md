@@ -138,7 +138,6 @@
 ## ⚙️Languages & Tools🔧:
 <div align="center">
     <p align="center">
-        <br>
         <a href="https://www.python.org/" target="_blank"><img alt="Python"
                 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         </a>
@@ -209,7 +208,6 @@
 
 <div align="center">
     <p align="center">
-        <br>
         <a href="" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
         </a>
@@ -245,10 +243,8 @@
 <br>
 <details>
 <summary> &#9776; Tools & OS</summary>
-
 <div align="center">
     <p align="center">
-        <br>
         <a href="" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         </a> 
@@ -314,6 +310,25 @@
                 src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
         </a>  
         <a href="https://www.mathworks.com/" target="_blank"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="27"/>
+        </a>
+        <br>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=whit">
         </a>      
     </p>
 </div>
@@ -336,21 +351,21 @@
 [![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)]() 
 [![image](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)]()  -->
   
-[![image](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]() 
+<!-- [![image](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]() 
 [![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]()
 [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]() 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="25"/> </a> 
-<br>
+<br> -->
 
-[![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
+<!-- [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() 
-<!-- [![image](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]()  -->
+ [![image](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]()  
 [![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]() 
 [![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]() 
-[![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]() 
+[![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]()  -->
 
 </details>
 
