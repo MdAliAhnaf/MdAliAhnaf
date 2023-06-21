@@ -64,7 +64,7 @@
 
 <!-- Details Section -->
 <div align="center">
-  <summary> &#9776; Feel free to find me on</summary>
+   &#9776; Feel free to find me on
     <p align="center">
         <br>
         <!-- <p>&#9776; <samp>Do Better, Be Better & Stay Better! </samp></p> -->
@@ -197,6 +197,7 @@
 
 <br>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 <p align="center">
