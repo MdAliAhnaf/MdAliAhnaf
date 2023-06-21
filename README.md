@@ -15,7 +15,7 @@
     </div>
   </div>
 </div> -->
-<p align="left">
+<p align="Justify">
         <!-- Intro -->
        <!-- <samp>  -->
               「I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b><br></br>
