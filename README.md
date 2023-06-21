@@ -63,15 +63,14 @@
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
 
 <!-- Details Section -->
-<!-- <div align="center">
-       <details align="center"> 
+<div align="center">
+       <!-- <details align="center"> 
               <summary>&#9776; Feel free to find me on</summary>
               <p align="center">
               <a href="mailto:aliahnaf2012@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
               <br>
        </details> -->
-<summary></summary>
   &#9776; Feel free to find me on 
     <p align="center">
         <br>
