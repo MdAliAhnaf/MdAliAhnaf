@@ -18,13 +18,13 @@
 <p align="center">
         <!-- Intro -->
        <samp> 
+       「Git Profile」
        <ul>
               <li>I’m interested in <b>Competitive Programming</b> and  currently focused on <b>Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science</b></li>
-              <li>I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>[American International University-Bangladesh (AIUB)]</b></a> with a passion for problem-solving and computing.</li>
+              <li>I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.</li>
               <li>I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.</li>
               <li>I am concentrating on conducting <b>research</b> and developing cutting-edge initiatives on various <b>CNN sequential model</b> architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly <b>improving my algorithms, problem-solving skills, data structures, and Oracle-SQL database</b>.</li>
-       </ul>
-                「」 
+       </ul> 
        </samp>
         
 </p>
@@ -36,8 +36,8 @@
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
 
-## Featured Project Showcase
-<br>
+### Featured Project Showcase
+<br></br>
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
@@ -203,7 +203,7 @@
 
 <br>
 <p align="center">Visitor's count :eyes:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=10 alt="MdAliAhnaf :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=5 alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 <p align="center">
