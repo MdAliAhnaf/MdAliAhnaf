@@ -239,7 +239,7 @@
 <br>
 <!-- <details> -->
 <!-- <summary>  &#9776; Tools & OS</summary> -->
-&#9735; &#9776; Tools & OS
+▼ &#9776; Tools & OS
 <div align="center">
     <p align="center">
        <br>
