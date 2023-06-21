@@ -91,8 +91,7 @@
         <!-- Youtube -->
         <a href="https://www.youtube.com/channel/UCdykLcNSRzzKSTGov7vViWQ" target="_blank"><img alt="Youtube"
                src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">
-        </a>
-        <!---  src="https://img.shields.io/badge/Youtube-%EC3750.svg?style=for-the-badge&logo=Youtube&logoColor=white">--->  
+        </a> 
         <a href="https://discordapp.com/users/376360755865583616" target="_blank"><img alt="Discord"
                src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
         </a>
@@ -203,8 +202,8 @@
 </details>
 
 <br>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=50 alt="MdAliAhnaf :: Visitor's Count" /></p>
+<h1 align="center">Visitor's count :eyes:</h1>
+<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=25 alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 <p align="center">
