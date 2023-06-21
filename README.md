@@ -36,9 +36,9 @@
 - I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
-<br>
 
-#### Featured Project Showcase
+###### Featured Project Showcase
+
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
@@ -65,7 +65,7 @@
 
 <!-- Details Section -->
 <div align="center">
-  <summary> &#9776;Feel free to find me on</summary>
+  <summary> &#9776; Feel free to find me on</summary>
     <p align="center">
         <br>
         <!-- <p>&#9776; <samp>Do Better, Be Better & Stay Better! </samp></p> -->
