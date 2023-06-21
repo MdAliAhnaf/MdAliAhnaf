@@ -63,8 +63,15 @@
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
 
 <!-- Details Section -->
-<div align="center">
-   &#9776; Feel free to find me on
+<!-- <div align="center">
+       <details align="center"> 
+              <summary>&#9776; Feel free to find me on</summary>
+              <p align="center">
+              <a href="mailto:aliahnaf2012@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+              <br>
+       </details> -->
+  &#9776; Feel free to find me on 
     <p align="center">
         <br>
         <!-- <p>&#9776; <samp>Do Better, Be Better & Stay Better! </samp></p> -->
@@ -197,7 +204,7 @@
 
 <br>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" alt="MdAliAhnaf :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MdAliAhnaf}/count.svg" size=50 alt="MdAliAhnaf :: Visitor's Count" /></p>
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 <p align="center">
