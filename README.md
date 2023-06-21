@@ -142,14 +142,57 @@
         <a href="https://www.python.org/" target="_blank"><img alt="Python"
                 src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         </a>
-        <a href="https://dotnet.microsoft.com/learn/csharp/" target="_blank"><img alt="Python"
+        <a href="https://dotnet.microsoft.com/learn/csharp/" target="_blank"><img alt="Csharp"
                 src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
         </a>
+        <a href="https://www.r-project.org/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+        </a>
+        <a href="https://cplusplus.com/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        </a>
+        <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+        </a>
+        <a href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"><img alt=""
+                src="https://www.cprogramming.com/">
+        </a>
+        <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+        <a href="https://www.css3.com/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        </a>
+        <a href="https://www.json.org/json-en.html" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+        </a>
+        <a href="https://www.javascript.com/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </a>
+        <a href="https://www.php.net/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        </a>
+        <a href="https://www.mysql.com/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+        </a>
+        <a href="https://www.java.com/en/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+        </a>
+        <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+        </a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="">
+        </a>
+        
     </p>
 </div>
 <br>
 
-[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
+<!-- [![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) 
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/learn/csharp/)
 [![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) 
 [![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/) 
@@ -160,10 +203,11 @@
 [![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) 
 [![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) 
 [![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
+[![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/) 
 [![image](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/) 
-[![image](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) 
-[![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![image](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  -->
+
 
 <br>
 
