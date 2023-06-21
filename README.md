@@ -207,9 +207,6 @@
 [![image](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/) 
 [![image](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  -->
 
-
-<br>
-
 <div align="center">
     <p align="center">
         <br>
@@ -236,7 +233,7 @@
         </a>        
     </p>
 </div>
-<br>
+
 
 <!-- [![image](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)]()
 [![image](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]() 
@@ -246,10 +243,8 @@
 [![image](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()  -->
 
 <br>
-
 <details>
 <summary> &#9776; Tools & OS</summary>
-<br><br>
 
 <div align="center">
     <p align="center">
@@ -302,9 +297,24 @@
         <a href="" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
         </a>
+        <br></br>
         <a href="" target="_blank"><img alt=""
-                src="">
-        </a>       
+                src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+        </a>
+        <a href="" target="_blank"><img alt=""
+                src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+        </a>  
+        <a href="https://www.mathworks.com/" target="_blank"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="27"/>
+        </a>      
     </p>
 </div>
 <br>
@@ -326,10 +336,10 @@
 [![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)]() 
 [![image](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)]()  -->
   
-[![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]() 
 [![image](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() 
 [![image](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)]() 
+[![image](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)]()
 [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]() 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="25"/> </a> 
 <br>
