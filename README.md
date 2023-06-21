@@ -19,8 +19,8 @@
         <!-- Intro -->
        <samp> 
        <ul>
-              <li>I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science**</li>
-              <li>I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.</li>
+              <li>I’m interested in <b></b>Competitive Programming and  currently focused on <b>Deep Learning-Computer Vision || Backend Web-App Developer || Machine Learning-Data Science</b></li>
+              <li>I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)] href="https://www.aiub.edu/" with a passion for problem-solving and computing.</li>
               <li>I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.</li>
               <li>I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.</li>
        </ul>
