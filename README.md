@@ -19,29 +19,23 @@
         <!-- Intro -->
        <samp> 
        <ul>
-<li>Example 1</li>
-<li>Example 2</li>
-<li>Example 3</li>
-</ul>
-      「 - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**」
-   I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
- 
-- I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
-- I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br> <b>Bangladesh</b> 」
-                <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
-                <br>
+              <li>I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science**</li>
+              <li>I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.</li>
+              <li>I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.</li>
+              <li>I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.</li>
+       </ul>
+                「」 
                 <br>
        </samp>
         
 </p>
 
-- I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science |**
+<!-- - I’m interested in **Competitive Programming** and  currently focused on **Deep Learning-Computer Vision| Backend Web-App Developer | Machine Learning-Data Science**
 - I am a senior-year undergraduate student in from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) with a passion for problem-solving and computing.<br>
  
 - I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
-<!-- - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
+- Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
 <br>
 
 #### Featured Project Showcase
