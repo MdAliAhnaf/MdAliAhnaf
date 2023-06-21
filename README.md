@@ -124,7 +124,6 @@
         </a>
     </p>
 </div>
-<br>
 <!-- <samp>
     <p align="center">
         ════ ⋆★⋆ ════
@@ -183,8 +182,6 @@
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
         </a>
-        <a href="" target="_blank"><img alt=""
-                src="">
         </a>        
     </p>
 </div>
@@ -245,6 +242,7 @@
 <summary> &#9776; Tools & OS</summary>
 <div align="center">
     <p align="center">
+       <br>
         <a href="" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         </a> 
@@ -311,7 +309,7 @@
         </a>  
         <a href="https://www.mathworks.com/" target="_blank"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="27"/>
         </a>
-        <br>
+        <br></br>
         <a href="" target="_blank"><img alt=""
                 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
         </a>
