@@ -43,21 +43,21 @@
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
      
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 </br>
