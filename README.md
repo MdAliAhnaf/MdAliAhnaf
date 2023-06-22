@@ -53,21 +53,21 @@
 <p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=reactborder_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&border_radius=10" />
+<img width='47%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=reactborder_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&border_radius=10" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&theme=reactborder_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&border_radius=10" />
+<img width='47%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&theme=reactborder_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&border_radius=10" />
 </a>
 </p>
      
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&theme=react&border_color=61dafb&border_radius=10" />
+<img width='47%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
+<img width='47%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
 </br>
