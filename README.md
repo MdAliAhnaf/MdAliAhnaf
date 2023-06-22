@@ -38,8 +38,15 @@
 - I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
-
+<!-- border_color=61dafb -->
 ### Featured Projects
+<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="" title=""><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892_radius=10"></a>
+  <a align="right" href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection" title="Face mask Detection Using Mobilenet_V2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
@@ -131,7 +138,7 @@
     </p>
 </samp> -->
 
-<!-- <h3 align="left">⚙️Languages & Tools🔧:</h3> -->
+<!-- <h2 align="left">⚙️Languages & Tools🔧:</h2> -->
 
 ## ⚙️Languages & Tools🔧:
 <div align="center">
@@ -384,9 +391,10 @@
      </tr>
       <tr>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
-       <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf's Top Languages" align="right" width="295">
+       <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
 
-       <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAliAhnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>
+       <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf's Top Languages" align="right" width="295">
+       <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td> -->
      </tr>
      
    </table>
