@@ -38,34 +38,40 @@
 - I am on the lookout for **opportunities** to hone my problem-solving skills through the creation of efficient **software solutions**, the development of **algorithms**, the design of resilient systems, or the optimization of performance with a significant impact.<br>
 - I am concentrating on conducting **research** and developing cutting-edge initiatives on various **CNN sequential model** architectures within the field of deep learning. Moreover, I am constantly **improving** **my algorithms, problem-solving skills, data structures,** and **Oracle-SQL database**.<br>
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
-<!-- border_color=61dafb -->
+
 ### Featured Projects
+<!-- border_color=61dafb -->
+<!-- src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892 -->
+
+
 <div width="100%" align="center">
   <a align="left" href="" title=""><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892_radius=10"></a>
   <a align="right" href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection" title="Face mask Detection Using Mobilenet_V2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<!-- <p align="center">
+<!-- <p align="center"> -->
+<div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
 </a>
-</p>
+<!-- </p> -->
+</div>
      
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
-</br> -->
+</br>
 <!-- And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35"> -->
 
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
