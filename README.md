@@ -391,6 +391,8 @@
    </table>
 </p>
 
+[![Top Langs](https://github-readme-stats.mdaliahnaf.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- # <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak -->
 <!-- &nbsp;Streak -->
 <!-- [![Ahnaf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdaliahnaf&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats) -->
