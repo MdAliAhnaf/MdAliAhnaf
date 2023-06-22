@@ -47,11 +47,11 @@
 <p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
-<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
-<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
      
@@ -61,7 +61,7 @@
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
-<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
 </br>
@@ -387,11 +387,10 @@
        <th>&nbsp;Language Contribution</th>
      </tr>
       <tr>
+        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
-       <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
-
-       <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf's Top Languages" align="right" width="295">
-       <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td> -->
+       <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
+       <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>  -->
      </tr>
      
    </table>
