@@ -40,10 +40,10 @@
 - Previously, I played Dota 2 in the eSports scene of Bangladesh, and I played Valorant professionally as an eSports player. <img src="assets/img/valorant-chile-logo.gif" width="35" height="30"> -->
 <!-- border_color=61dafb -->
 ### Featured Projects
-<div width="100%" align="center">
+<!-- <div width="100%" align="center"> -->
   <a align="left" href="" title=""><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892_radius=10"></a>
   <a align="right" href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection" title="Face mask Detection Using Mobilenet_V2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<!-- </div> -->
 <br/><br/><br/><br/><br/><br/>
 
 <p align="center">
