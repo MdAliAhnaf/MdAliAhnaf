@@ -15,7 +15,7 @@
     </div>
   </div>
 </div> -->
-<p align="Justify">
+<p align="Justify" id="MdAliAhnaf-title">>
         <!-- Intro -->
        <!-- <samp>  -->
               I’m interested in <b>Competitive Programming</b> and  currently focused on <b>「Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science」</b><br></br>
@@ -372,8 +372,8 @@
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#MdAliAhnaf-title">
+  <img src="https://raw.githubusercontent.com/MdAliAhnaf/github-stats-transparent/output/generated/overview.svg" alt="MdAliAhnaf" align="right" />
 </a>
 
 <p align="center">
