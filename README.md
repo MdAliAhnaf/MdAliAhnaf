@@ -376,10 +376,6 @@
 <!-- # <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp; Stats and Language Contribution -->
 <!-- &nbsp; **Others..** -->
 
-<a href="#MdAliAhnaf-title">
-  <img src="https://raw.githubusercontent.com/MdAliAhnaf/github-stats-transparent/output/generated/overview.svg" alt="MdAliAhnaf" align="right" />
-</a>
-
 <p align="center">
    <table>
       <tr>
@@ -387,8 +383,7 @@
        <th>&nbsp;Language Contribution</th>
      </tr>
       <tr>
-        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
-       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
+       <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.mdaliahnaf.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
        <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
        <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>  -->
      </tr>
