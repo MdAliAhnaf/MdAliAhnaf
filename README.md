@@ -50,7 +50,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<!-- <p align="center"> -->
+<p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
@@ -59,8 +59,7 @@
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
 <img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
 </a>
-<!-- </p> -->
-</div>
+</p>
      
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
