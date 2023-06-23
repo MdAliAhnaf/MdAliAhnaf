@@ -386,7 +386,7 @@
      </tr>
       <tr> 
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.mdaliahnaf.vercel.app/api?username=MdAliAhnaf&rank_icon=github&theme=radical" alt="MdAliAhnaf" /> </td>
-       <td><img align="left" "<img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
+       <td><img align="center" height="100" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=github_dark&langs&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
        <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>  -->
      </tr>
      
