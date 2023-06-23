@@ -44,7 +44,8 @@
 <!-- -stats-sigma-five.vercel.app -->
 <!-- src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892 -->
 
-<!-- <p align="center">
+<div>
+<p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
@@ -64,7 +65,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
-</br> -->
+</div>
+</br>
 <!-- And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35"> -->
 
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
