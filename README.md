@@ -44,7 +44,7 @@
 <!-- -stats-sigma-five.vercel.app -->
 <!-- src="https://github-readme-stats.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892 -->
 
-<p align="center">
+<!-- <p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Razer-Store-Bangladesh">
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
@@ -64,7 +64,7 @@
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
-</br>
+</br> -->
 <!-- And as a hobby, I love aquatic animals and petting cats. <img src="assets/img/cute-cat.gif" width="40" height="35"> -->
 
 <!-- &nbsp; <a target="_blank" align = "right" href='https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet'> ![](https://komarev.com/ghpvc/?username=MdAliAhnaf&label=PROFILE+VIEWS&color=blueviolet) -->
@@ -384,7 +384,7 @@
      </tr>
       <tr>
        <td><img alt="Ahnaf :: Profile Stats" src="https://github-readme-stats.mdaliahnaf.vercel.app/api?username=MdAliAhnaf&show_icons=true&theme=radical" alt="MdAliAhnaf" /> </td>
-       <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
+       <td><img align="left" <img alt="MdAliAhnaf's :: Top Languages]" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=MdAliAhnaf&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="MdAliAhnaf"> </td>
        <!-- <td><img align="left" <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaliahnaf&layout=compact&show_icons=true&theme=tokyonight" alt="MdAliAhnaf"> </td>  -->
      </tr>
      
