@@ -114,7 +114,7 @@
         <a href="https://www.kaggle.com/mdaliahnaf" target="_blank"><img alt="Kaggle"
                src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
         </a>
-        <a href="https://codeforces.com/profile/Md._.Ali._.Ahnaf" target="_blank"><img alt="codeforces"
+        <a href="https://codeforces.com/profile/_Ahnaf_" target="_blank"><img alt="codeforces"
                src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
         </a>
         <br>
