@@ -51,15 +51,21 @@
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Razer-Store-Bangladesh&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
-<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
+<a href="https://github.com/MdAliAhnaf/language_translate-detect_fastapi-docker">
+<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=language_translate-detect_fastapi-docker&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
      
 <p align="center">
+<a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
+<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Data_Science_R-Lang_ML">
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Data_Science_R-Lang_ML&theme=react&border_color=61dafb&border_radius=10" />
 </a>
+</p>
+<p align="center">
 <span>&nbsp;</span>
 <a href="https://github.com/MdAliAhnaf/Threshold-of-Islam">
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Threshold-of-Islam&theme=react&border_color=61dafb&border_radius=10" />
