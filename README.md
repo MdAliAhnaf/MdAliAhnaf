@@ -19,7 +19,7 @@
         <!-- Intro -->
        <!-- <samp>  -->
               I’m interested in <b>Competitive Programming</b> and  currently focused on <b>「Deep Learning-Computer Vision | | Backend Web-App Developer | | Machine Learning-Data Science」</b><br></br>
-              I am a senior-year undergraduate student in from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a passion for problem-solving and computing.<br></br>
+              I am a senior-year undergraduate student from <a href="https://www.aiub.edu/"><b>American International University-Bangladesh (AIUB)</b></a> with a keen interest in problem-solving and computing.<br></br>
               I am on the lookout for <b>opportunities</b> to hone my problem-solving skills through the creation of efficient <b>software solutions</b>, the development of <b>algorithms</b>, the design of resilient systems, or the optimization of performance with a significant impact.<br></br>
               I am concentrating on conducting <b>research</b> and developing cutting-edge initiatives on various <b>CNN sequential model</b> architectures within the field of deep learning on creating impactful research & applications. Moreover, I am constantly <b>improving my algorithms, problem-solving skills, data structures, and Oracle-SQL database</b>.
        <!-- <ul>
