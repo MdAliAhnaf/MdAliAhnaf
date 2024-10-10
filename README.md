@@ -56,7 +56,18 @@
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=language_translate-detect_fastapi-docker&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 </p>
-     
+
+<p align="center">
+<div width="100%" align="center">
+<a href="https://github.com/MdAliAhnaf/Bengali-Sentiment-Analysis-ML_Fine-Tune-Llama-3.1">
+<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Bengali-Sentiment-Analysis-ML_Fine-Tune-Llama-3.1&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/MdAliAhnaf/ML-Classification_Regression">
+<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=ML-Classification_Regression&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+</p>
+
 <p align="center">
 <a href="https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection">
 <img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=frontal_3-category_face-mask_detection&theme=react&border_color=61dafb&border_radius=10" />
