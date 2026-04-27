@@ -48,7 +48,7 @@
 <p align="center">
 <div width="100%" align="center">
 <a href="https://github.com/MdAliAhnaf/Conversational-AI-RAG-Chatbot-History-Aware-LangChain">
-<img width='100%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Conversational-AI-RAG-Chatbot-History-Aware-LangChain&theme=react&border_color=61dafb&border_radius=10" />
+<img width='49%' align="center"src="https://github-readme-stats.mdaliahnaf.vercel.app/api/pin/?username=MdAliAhnaf&repo=Conversational-AI-RAG-Chatbot-History-Aware-LangChain&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 
 <div>
